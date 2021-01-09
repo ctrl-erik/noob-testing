@@ -1,4 +1,4 @@
-# Simple calculator by ctrl-erik
+# Simple limited calculator by ctrl-erik
 
 numberOne = float(input("Enter your first number: "))
 operator = input("Enter you operator: ")
